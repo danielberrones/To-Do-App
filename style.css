@@ -1,1 +1,7 @@
-/* Dan's custom CSS will go here */
+/** Dan's custom CSS will go here **/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
