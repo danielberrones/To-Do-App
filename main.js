@@ -1,4 +1,4 @@
-// main.js
+// Dan's custom JS will go here 
 
 var addButton = document.getElementById("add-button");
 addButton.addEventListener("click",addToDoItem);
