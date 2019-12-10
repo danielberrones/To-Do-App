@@ -1,2 +1,2 @@
-# To-Do-List
+# To-Do-App
 JavaScript, HTML, CSS
