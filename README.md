@@ -1,4 +1,4 @@
 # To-Do-App
 JavaScript, HTML, CSS
 
-This is a Daniel Berones remake on the classic To Do App. Add and delete entries so you can stay on top of your tasks for the day!
+It's a rite of passage to make a classic To Do App using JavaScript! Add and delete entries so you can stay on top of your tasks for the day!
