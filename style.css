@@ -1,25 +1,18 @@
-/* Include the padding and border in an element's total width and height */
+/* Set globals */
 * {
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-  
-  /* Remove margins and padding from the list */
-  ul {
     margin: 0;
     padding: 0;
   }
-  
-  /* Style the list items */
+
   ul li {
     cursor: pointer;
     position: relative;
     padding: 12px 8px 12px 40px;
-    background: #eee;
     font-size: 18px;
     transition: 0.2s;
   
-    /* make the list items unselectable */
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -28,12 +21,12 @@
   
   /* Set all odd list items to a different color (zebra-stripes) */
   ul li:nth-child(odd) {
-    background: #f9f9f9;
+    background: silver;
   }
   
   /* Darker background-color on hover */
   ul li:hover {
-    background: #ddd;
+    background: gray;
   }
   
   /* When clicked on, add a background color and strike out text */
@@ -72,9 +65,9 @@
   
   /* Style the header */
   .header {
-    background-image: linear-gradient(to bottom,navy,dodgerblue);
-    padding: 30px 40px;
-    color: yellow;
+    background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+    padding: 80px 200px;
+    color: white;
     text-align: center;
   }
   
