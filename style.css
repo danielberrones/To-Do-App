@@ -1,6 +1,7 @@
 /* Include the padding and border in an element's total width and height */
 * {
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   /* Remove margins and padding from the list */
@@ -65,7 +66,7 @@
   }
   
   .close:hover {
-    background-color: #f44336;
+    background-color: red;
     color: white;
   }
   
