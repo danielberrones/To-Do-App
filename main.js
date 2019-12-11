@@ -33,6 +33,7 @@ function newElement() {
   var inputValue = document.getElementById("myInput").value;
   var t = document.createTextNode(inputValue);
   li.appendChild(t);
+  
   if (inputValue === '') {
     alert("Please type something!");
   } else {
