@@ -1,5 +1,5 @@
 // Appends close button to each list item
-var myNodelist = document.getElementsByTagName("LI");
+var myNodelist = document.getElementsByTagName("Li");
 var i;
 for (i = 0; i < myNodelist.length; i++) {
   var span = document.createElement("SPAN");
